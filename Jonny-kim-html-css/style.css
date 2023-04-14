@@ -1,0 +1,38 @@
+div {
+    width: 90%; /* helps contnet us only 80% of page */
+    margin-right: auto; /* helps to keep content in middle */
+    margin-left: auto; /* helps to keep content in middle */
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+body {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    background-color: #E5E5E5;
+}
+
+
+header {
+background-color: #14213D;
+color: #FFFFFF;
+padding: 20px;
+margin: -5% -10%;
+}
+
+header, h2, h3, figcaption, footer {
+    text-align: center; /* aligns headings to center with use of commas */
+}
+.center-img {
+    display: block; 
+    margin: auto;
+    width: 90%;
+    padding-top: 70px; /* remove to see what happens */
+    /* display - block & margin - auto help to center image */
+}
+footer {
+background-color: #14213D;
+color: #FFFFFF;
+padding: 20px;
+margin-right: -20%;
+margin-bottom: -10%;
+margin-left: -20%;
+}
